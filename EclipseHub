@@ -1,2 +1,2 @@
 --Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/UniVrSalHub/EClipseHub/refs/heads/main/EclipseHub.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UniVrSalHub/EClipseHub/refs/heads/main/EcIipseHub.txt"))()
