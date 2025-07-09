@@ -1,2 +1,5 @@
 --Script
 loadstring(game:HttpGet("https://raw.githubusercontent.com/UniVrSalHub/EClipseHub/refs/heads/main/EcIipseHub.txt"))()
+
+--AntiKick(CheatBypass)
+loadstring(game:HttpGet("https://rawscripts.net/raw/Eclipse-Hub_805"))()
